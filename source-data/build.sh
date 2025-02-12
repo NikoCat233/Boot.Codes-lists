@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-for n in 6
+for n in 4
 do
     for p in 2.0 2.5
     do
